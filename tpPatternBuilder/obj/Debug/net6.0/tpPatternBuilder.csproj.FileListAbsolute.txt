@@ -1,0 +1,15 @@
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\obj\Debug\net6.0\tpPatternBuilder.csproj.AssemblyReference.cache
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\obj\Debug\net6.0\tpPatternBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\obj\Debug\net6.0\tpPatternBuilder.AssemblyInfoInputs.cache
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\obj\Debug\net6.0\tpPatternBuilder.AssemblyInfo.cs
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\obj\Debug\net6.0\tpPatternBuilder.csproj.CoreCompileInputs.cache
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\bin\Debug\net6.0\tpPatternBuilder.exe
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\bin\Debug\net6.0\tpPatternBuilder.deps.json
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\bin\Debug\net6.0\tpPatternBuilder.runtimeconfig.json
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\bin\Debug\net6.0\tpPatternBuilder.dll
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\bin\Debug\net6.0\tpPatternBuilder.pdb
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\obj\Debug\net6.0\tpPatternBuilder.dll
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\obj\Debug\net6.0\refint\tpPatternBuilder.dll
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\obj\Debug\net6.0\tpPatternBuilder.pdb
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\obj\Debug\net6.0\tpPatternBuilder.genruntimeconfig.cache
+C:\Users\driss.chennaoui\source\repos\tpPatternBuilder\tpPatternBuilder\obj\Debug\net6.0\ref\tpPatternBuilder.dll
